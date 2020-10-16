@@ -8,8 +8,7 @@ Demo
 ![itemsadded](itemsadded.png)
 ![cart](orderplaced.png)
 ![oastorders](pastorders.png)
-Installation
---------------- 
+
 
 Tech Stack
 --------------- 
